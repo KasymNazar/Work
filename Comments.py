@@ -1,5 +1,5 @@
 #Exercise 1
-#This is program that  show "Hello world" 
+#This is a comment
 
 #Exercise 2
 """
